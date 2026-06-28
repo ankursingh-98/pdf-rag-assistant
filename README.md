@@ -140,18 +140,20 @@ npm run dev
 
 ## Learning Phases
 
+> **Full step-by-step guide:** See [STEPS.md](./STEPS.md) for every phase, verification steps, and how to run the project.
+
 | Phase | Topic | Status |
 |-------|-------|--------|
-| 1 | Project scaffold & architecture | ✅ Current |
-| 2 | Express server, config, logging, errors | Pending |
-| 3 | PDF upload API | Pending |
-| 4 | Text extraction (`pdf-parse`) | Pending |
-| 5 | Chunking (800 / 150 overlap) | Pending |
-| 6 | Ollama embeddings (`nomic-embed-text`) | Pending |
-| 7 | Qdrant collection & storage | Pending |
-| 8 | Semantic search (`POST /search`) | Pending |
-| 9 | Developer dashboard | Pending |
-| 10 | LLM integration (retrieval-only context) | Pending |
+| 1 | Project scaffold & architecture | ✅ Complete |
+| 2 | Express server, config, logging, errors | ✅ Complete |
+| 3 | PDF upload API | ✅ Complete |
+| 4 | Text extraction (`pdf-parse`) | ✅ Complete |
+| 5 | Chunking (800 / 150 overlap) | ✅ Complete |
+| 6 | Ollama embeddings (`nomic-embed-text`) | ✅ Complete |
+| 7 | Qdrant collection & storage | ✅ Complete |
+| 8 | Semantic search (`POST /search`) | ✅ Complete |
+| 9 | Developer dashboard | ✅ Complete |
+| 10 | LLM integration (retrieval-only context) | ✅ Complete |
 
 ---
 

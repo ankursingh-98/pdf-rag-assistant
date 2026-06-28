@@ -2,6 +2,7 @@
   "name": "pdf-rag-assistant-backend",
   "version": "0.1.0",
   "description": "Mini RAG backend — PDF ingestion, embeddings, and semantic search",
+  "type": "module",
   "main": "dist/index.js",
   "scripts": {
     "dev": "tsx watch src/index.ts",
